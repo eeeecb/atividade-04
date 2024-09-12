@@ -1,13 +1,12 @@
-# Questionário de Construção de Frontend
+# Projeto React - Componentes
 
 ## Descrição
-Este projeto foi desenvolvido usando React e Vite para criar um questionário que avalia conhecimentos sobre temas abordados em sala de aula.
+Este projeto em React demonstra como criar componentes, utilizar arrays e manipular dados de forma ordenada e alfabética, além de exibir informações pessoais e acadêmicas.
 
-## Tecnologias Utilizadas
-- React
-- Vite
-- Tailwind CSS
-- Lucide React
+## Requisitos
+- Node.js
+- React configurado no projeto
+- Instalar a extensão **ES7 + React/Redux/React-Native snippets** para facilitar a criação de componentes
 
 ## Como Rodar o Projeto
 1. Clone o repositório.
